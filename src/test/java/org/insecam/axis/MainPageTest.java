@@ -1,7 +1,7 @@
 package org.insecam.axis;
 
 /**
- * tests for MainPage.
+ * tests for InsecamPage.
  */
 public class MainPageTest {
     
